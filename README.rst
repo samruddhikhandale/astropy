@@ -33,6 +33,17 @@ page. A `summary of contribution guidelines <CONTRIBUTING.md>`_ can also be
 used as a quick reference when you are ready to start writing or validating
 code for submission.
 
+Getting started with GitHub Codespaces
+----------------------
+
+To get started, create a codespace for this repository by clicking this 👇 
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=2081289)
+
+A codespace will open in a web-based version of Visual Studio Code. The [dev container](.devcontainer/devcontainer.json) is fully configured with software needed for this project.
+
+**Note**: Dev containers is an open spec which is supported by [GitHub Codespaces](https://github.com/codespaces) and [other tools](https://containers.dev/supporting).
+
 Supporting the Project
 ----------------------
 
