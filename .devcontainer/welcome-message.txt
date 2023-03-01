@@ -4,5 +4,5 @@
 
 🔍 To explore VS Code to its fullest, search using the Command Palette (Cmd/Ctrl + Shift + P or F1).
 
-📝 Edit away, run your app as usual, and we'll automatically make it available for you to access.
+ℹ️  Look at https://docs.astropy.org/en/latest/development/workflow/development_workflow.html for more contribution details.
 

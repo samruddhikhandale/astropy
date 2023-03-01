@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/devcontainers/python:0-3.11
 COPY requirements.txt /tmp/
 
 RUN echo "(*) Installing tools..." \
-    && su - vscode -c "pip install -r /tmp/requirements.txt"
+    && pip install -r /tmp/requirements.txt
 
 RUN apt-get update \
     && apt-get upgrade -y \
