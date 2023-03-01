@@ -38,11 +38,11 @@ Getting started with GitHub Codespaces
 
 To get started, create a codespace for this repository by clicking this 👇 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=2081289)
+|Codespaces|
 
-A codespace will open in a web-based version of Visual Studio Code. The [dev container](.devcontainer/devcontainer.json) is fully configured with software needed for this project.
+A codespace will open in a web-based version of Visual Studio Code. The `dev container <.devcontainer/devcontainer.json>`_ is fully configured with software needed for this project.
 
-**Note**: Dev containers is an open spec which is supported by [GitHub Codespaces](https://github.com/codespaces) and [other tools](https://containers.dev/supporting).
+**Note**: Dev containers is an open spec which is supported by `GitHub Codespaces <https://github.com/codespaces>`_ and `other tools <https://containers.dev/supporting>`_.
 
 Supporting the Project
 ----------------------
@@ -102,6 +102,10 @@ Astropy is licensed under a 3-clause BSD style license - see the
 
 .. |Donate| image:: https://img.shields.io/badge/Donate-to%20Astropy-brightgreen.svg
     :target: https://numfocus.salsalabs.org/donate-to-astropy/index.html
+
+.. |Codespaces| image:: https://github.com/codespaces/badge.svg
+    :target: https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=2081289
+    :alt: Open in GitHub Codespaces
 
 
 If you locally cloned this repo before 7 Apr 2021
