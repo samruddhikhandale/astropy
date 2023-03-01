@@ -1,3 +1,4 @@
+// More details: https://github.com/devcontainers/images/tree/main/src/miniconda
 FROM mcr.microsoft.com/devcontainers/miniconda:0-3
 
 COPY requirements.txt /tmp/
