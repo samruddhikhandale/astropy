@@ -40,7 +40,7 @@ To get started, create a codespace for this repository by clicking this 👇
 
 |Codespaces|
 
-A codespace will open in a web-based version of Visual Studio Code. The `dev container <.devcontainer/devcontainer.json>`_ is fully configured with software needed for this project.
+A codespace will open in a web-based version of Visual Studio Code. The `dev container <.devcontainer/devcontainer.json>`_ is fully configured with software needed for this project. Feel free to take a look at `GitHub Codespaces Support <https://support.github.com/features/codespaces>`_ page for help.
 
 **Note**: Dev containers is an open spec which is supported by `GitHub Codespaces <https://github.com/codespaces>`_ and `other tools <https://containers.dev/supporting>`_.
 
